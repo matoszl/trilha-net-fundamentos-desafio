@@ -53,8 +53,6 @@ namespace DesafioFundamentos.Models
                 {
                     Console.WriteLine($"{i + 1}. {veiculos[i]}");
                 }
-                // TODO: Realizar um laço de repetição, exibindo os veículos estacionados
-                // *IMPLEMENTE AQUI*
             }
             else
             {
